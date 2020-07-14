@@ -19,7 +19,7 @@
     ]
   },
   "keywords": [],
-  "author": "",
+  "author": "Michael Siu",
   "license": "ISC",
   "dependencies": {
     "prop-types": "^15.7.2",
