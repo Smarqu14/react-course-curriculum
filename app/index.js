@@ -49,7 +49,7 @@ class App extends React.Component {
   }
 }
 
-ReactDom.render(
+ReactDOM.render(
   <App />,
   document.getElementById('app')
 );
