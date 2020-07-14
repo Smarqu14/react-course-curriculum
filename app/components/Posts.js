@@ -2,7 +2,7 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import { fetchMainPosts } from '../utils/api';
 import Loading from './Loading';
-import PostsLists from './PostsList';
+import PostsList from './PostsList';
 
 export default class Posts extends React.Component {
   state = {
